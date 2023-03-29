@@ -444,6 +444,7 @@ color: #f3971b;
 .portfolio .portfolio-content .card {
   float: left;
   width: 33.33%;
+  height: auto;
   padding: 15px;
 }
 
