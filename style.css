@@ -383,7 +383,7 @@ color: #f3971b;
   width: 100%;
 }
 .skills .skills-content .card {
-  width: 50%;
+  width: 25%;
   float: left;
   padding: 0px 15px;
   margin-bottom: 50px;
@@ -393,7 +393,7 @@ color: #f3971b;
   color: #ffffff;
   font-weight: 600;
   display: block;
-  text-align: left;
+  text-align: center;
   margin: 15px 0;
 }
 
